@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+	<firstname> Madhurima </firstname>
+	<lastname> Handa </lastname>
+	<email> madhurima@mail.com </email>
+	<password> flower </password>
+	<confirm> flower </confirm>
+	<sex> Female </sex>
+	<dd> 11 </dd>
+	<mm>September </mm>
+	<yy>1996 </yy>
+	<country> India </country>
+	<summary>								I am Madhurima Handa, 19 years old. Currently doing BCA from Vips. Looking for a friend to whom I can share anything.                                                </summary>
+	<movies>                                50 First Dates                                   </movies>
+	<bestYou> Friendly </bestYou>
+	<color>#ff80c0</color>
+	<language>                   German              </language>
+	<idol>                                    Alia Bhatt                         </idol>
+	<novel>          The Toyota Way           &#13;
+               &#13;
+    </novel>
+	<path>me.jpg</path>
+	<current> College </current>
+	</profile>

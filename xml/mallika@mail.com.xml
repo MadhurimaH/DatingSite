@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+	<firstname> Mallika </firstname>
+	<lastname> Kaur </lastname>
+	<email> mallika@mail.com </email>
+	<password> carpet </password>
+	<confirm> carpet </confirm>
+	<sex> Female </sex>
+	<dd> 05 </dd>
+	<mm>February </mm>
+	<yy>1996 </yy>
+	<country> India </country>
+	<summary>				 Hey, Myself, Mallika Kaur. I belong to Sikh Community. I love to eat Pizza.        </summary>
+	<movies>                 Kunfu Panda 3           </movies>
+	<bestYou> Punctual </bestYou>
+	<color>#800040</color>
+	<language>             Punjabi         </language>
+	<idol>             Sherlock Holmes         </idol>
+	<novel>           Before I go to Sleep            &#13;
+               &#13;
+    </novel>
+	<path>mallika.jpg</path>
+	<current> College </current>
+</profile>

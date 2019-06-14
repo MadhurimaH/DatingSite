@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<profile>
+  <firstname>Ishita</firstname> 
+  <lastname>Goyal</lastname> 
+  <email>ish6@gmail.com</email> 
+  <password>lol9876</password> 
+  <confirm>lol9876</confirm> 
+  <sex>Female</sex> 
+  <dd>31</dd> 
+  <mm>march</mm> 
+  <yy>1995</yy> 
+  <country>India</country> 
+  <summary>I am Ishita Goyal , 21 years old. Currently doing BCA  at IITM.I just want to hangout with someone .</summary> 
+  <movies>The jungle book </movies>
+  <bestYou>Polite</bestYou> 
+  <color>pink</color> 
+ <language>Chinese</language>
+  <idol>Maria sharapova</idol> 
+ <novel>To kill a mockingbird </novel>
+  <path>ishita.jpg</path> 
+  <current>College</current> 
+  </profile>

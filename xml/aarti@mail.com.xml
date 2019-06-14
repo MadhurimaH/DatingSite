@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding = 'UTF-8'?>
+<profile>
+	<firstname> Aarti </firstname>
+	<lastname> Chawla </lastname>
+	<email> aarti@mail.com </email>
+	<password> beautiful </password>
+	<confirm> beautiful </confirm>
+	<sex> Female </sex>
+	<dd> 27 </dd>
+	<mm> August </mm>
+	<yy>1996 </yy>
+	<country> India </country>
+	<summary> I am Aarti. I like to spend my time with my family. I love nature. I am a Vegitarian. </summary>
+	<movies> Kapoor and Sons </movies>
+	<bestYou> Cute </bestYou>
+	<color> Red </color>
+	<language> English </language>
+	<idol> Katrina Kaif </idol>
+	<novel> Beauty and The Beast </novel>
+	<path>aarti.jpg</path>
+	<current> College </current>
+</profile>

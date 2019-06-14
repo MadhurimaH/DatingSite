@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+	<firstname> Shivam </firstname>
+	<lastname> Aggarwal </lastname>
+	<email> shivam@mail.com </email>
+	<password> shifu </password>
+	<confirm> shifu </confirm>
+	<sex> Male </sex>
+	<dd> 13 </dd>
+	<mm>December </mm>
+	<yy>1995 </yy>
+	<country> India </country>
+	<summary>I am Shivam Aggarwal. I want to date a sweet girl.         </summary>
+	<movies>                 Udaan           </movies>
+	<bestYou> Smart </bestYou>
+	<color>#ffff00</color>
+	<language>             Haryanvi         </language>
+	<idol>             Charles Dickens         </idol>
+	<novel>           The Fault In Our Stars            &#13;
+               &#13;
+    </novel>
+	<path>shiv.jpg</path>
+	<current> College </current>
+</profile>

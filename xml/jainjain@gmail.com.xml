@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <profile>
+  <firstname>Khushboo</firstname> 
+  <lastname>Jain</lastname> 
+  <email>jainjain@gmail.com</email> 
+  <password>1234599</password> 
+  <confirm>1234599</confirm> 
+  <sex>Female</sex> 
+  <dd>22</dd> 
+  <mm>march</mm> 
+  <yy>1992</yy> 
+  <country>India</country> 
+  <summary>I am Khushboo jain , 24 years old. Currently doing a job as a air hostess  at IGIT airport.I need a  person whom with i can spend all my life  .</summary> 
+ <movies>Batman</movies>
+  <bestYou>Loving</bestYou> 
+  <color>yellow</color> 
+ <language>Hindi </language>
+  <idol>Neerja</idol> 
+ <novel>Interstellar </novel>
+  <path>khusboo.jpg</path> 
+  <current>Job</current> 
+  </profile>

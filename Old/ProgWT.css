@@ -1,0 +1,190 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Mar, 2016, 10:29:19 PM
+    Author     : Madhurima
+*/
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+
+h1
+{
+    color: #d54d7b; 
+    font-family: "Great Vibes", cursive; 
+    font-size: 65px; 
+    line-height: 160px; 
+    font-weight: normal; 
+    margin-bottom: 0px; 
+    margin-top: 40px; 
+    text-align: center; 
+    text-shadow: 0 1px 1px #fff;
+}
+h2
+{
+    
+}
+h3
+{
+    color: #d54d7b; 
+    font-family: "Great Vibes", cursive; 
+    font-size: 45px; 
+    line-height: 160px; 
+    font-weight: normal; 
+    margin-bottom: 0px; 
+    margin-top: 15px; 
+    text-align: center; 
+    text-shadow: 0 1px 1px #fff;
+}
+h4
+{
+    
+}
+h5
+{
+    
+}
+h6
+{
+    
+}
+#Heading
+{
+    position: relative;
+    width: 100%;
+    padding: 1px 15px;
+    text-align: center;
+    margin: 30px auto;
+    color: yellow;
+    font-family: 'Gabriola';
+}
+#LoginBox
+{
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 450px;
+    line-height:30px;
+    background-color: yellowgreen;
+    height:300px;
+    width:330px;
+    float:right;
+    padding:5px;
+    margin-right: 30px;
+    color: purple;
+}
+input
+{
+    margin: 14px;
+    margin-left: 0px;
+    padding: 7px;
+    text-align: left;
+    color: yellow;
+    background-color: white;
+}
+textarea 
+{
+    text-align: left;
+}
+
+
+#ABTUs
+{
+    position: relative;
+    width: 100%;
+    clear: both;
+    text-align: center;
+    margin-top: 600px; 
+    float:bottom;
+    align-self: stretch;
+   
+}
+
+a {
+    color: #f05f40;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+a:hover,
+a:focus {
+    color: #eb3812;
+}
+ul.nav {
+    padding: 0;
+    
+}
+
+ul.nav li {
+    display: inline;
+}
+
+ul.nav li a {
+    background-color: maroon;
+    color: white;
+    padding: 10px 143px;
+    text-decoration: solid;
+    border-radius: 4px 4px 0 0;
+}
+
+ul.nav li a:hover {
+    background-color: orange;
+}
+
+#Review
+{
+    float:left;
+    margin:20px;
+ }
+ #MP
+ {
+     height: 325px;
+     width: 250px;
+     margin-left: 200px;
+
+ }
+ #Pic
+ {
+     float: right;
+     margin-right: 350px;
+ }
+ 
+ #SS, #Likes
+ {
+     float: left;
+     margin-left: 50px;
+     margin-right: 40px;
+     text-align: left;
+ }
+ #oval
+ {
+	width: 620px;
+	height: 200px;
+	background: red;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 1000px / 500px;
+ }
+ #circle
+ {
+  	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	border-radius: 200px;
+
+ }
+ #Strength
+ {
+     margin-left: 250px;
+     margin-top: 50px;
+ }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<profile>
+  <firstname>Pooja</firstname> 
+  <lastname>Malhotra</lastname> 
+  <email>pooja666@mail.com</email> 
+  <password>mahadev</password> 
+  <confirm>mahadev</confirm> 
+  <sex>Female</sex> 
+  <dd>14</dd> 
+  <mm>September</mm> 
+  <yy>1992</yy> 
+  <country>India</country> 
+  <summary>I am Pooja Malhotra, 24 years old. Currently doing a job  at IBM.just need a friend who can understand me.</summary> 
+ <movies>Drishyam </movies>
+  <bestYou>HOnest</bestYou> 
+  <color>BLack</color> 
+ <language>English </language>
+  <idol>Priyanka Chopra</idol> 
+ <novel>Catch-22</novel>
+  <path>pooja.jpg</path> 
+  <current>Job</current> 
+  </profile>

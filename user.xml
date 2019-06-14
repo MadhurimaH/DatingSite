@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding = 'UTF-8'?>
+<register>
+	<firstname> Madhurima </firstname>
+	<lastname> Handa </lastname>
+	<email> madhurima@mail.com </email>
+	<password> flower </password>
+	<confirm> flower </confirm>
+	<sex> Female </sex>
+	<dob> 11 September, 1996 </dob>
+	<country> India </country>
+</register>
+
+<profile>
+	<summary> I am Madhurima Handa, 19 years old. Currently doing BCA from Vips. Looking for a friend to whom I can share anything. </summary>
+	<movies> 50 First Dates,
+			3 idiots,
+			Jab We Met
+	</movies>
+	<bestYou> Friendly </bestYou>
+	<color> Baby Pink </color>
+	<language> English
+			   Hindi
+			   German
+	</language>
+	<idol> Alia Bhatt </idol>
+	<novel> The Adventures Of Tom Sawyer
+			David Copperfield
+			Rich Dad vs Poor Dad
+			Hound of the Baskervilles
+	</novel>
+	<current> College </current>
+</profile>
+
+<profile>
+	<summary> Hi. I am Arnav Sobti, 19 years old. Currently doing BBA from Vips. Looking for a friend to whom I can share anything. </summary>
+	<movies> 50 First Dates,
+			3 idiots,
+			Jab We Met
+	</movies>
+	<bestYou> Friendly </bestYou>
+	<color> Dark Blue </color>
+	<language> English
+			   Hindi
+			   Spanish
+	</language>
+	<idol> Alia Bhatt </idol>
+	<novel> The Adventures Of Tom Sawyer
+			Romeo and Juliet
+			Rich Dad vs Poor Dad
+			The Girl On Train 
+	</novel>
+	<current> College </current>
+</profile>

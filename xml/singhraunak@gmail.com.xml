@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <profile>
+  <firstname>Raunak</firstname> 
+  <lastname>Singh</lastname> 
+  <email>singhraunak@gmail.com</email> 
+  <password>98765</password> 
+  <confirm>98765</confirm> 
+  <sex>Male</sex> 
+  <dd>12</dd> 
+  <mm>april</mm> 
+  <yy>1996</yy> 
+  <country>India</country> 
+  <summary>I am Raunak Singh , 20 years old. Currently doing BBA  at IITM.I want a friend who can understand me .</summary> 
+  <movies>3 idiots </movies>
+  <bestYou>hardworking</bestYou> 
+  <color>purple</color> 
+   <language>Spanish </language>
+  <idol>Mukesh Ambani</idol> 
+ <novel>3 mistakes of my life </novel>
+  <path>raunak.jpg</path> 
+  <current>College</current> 
+  </profile>

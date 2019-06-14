@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <profile>
+  <firstname>Ranjeet</firstname> 
+  <lastname>Rana</lastname> 
+  <email>rana6@gmail.com</email> 
+  <password>jupiter</password> 
+  <confirm>jupiter</confirm> 
+  <sex>Male</sex> 
+  <dd>29</dd> 
+  <mm>December</mm> 
+  <yy>1999</yy> 
+  <country>India</country> 
+  <summary>I am Ranjeet Rana , 17 years old. Currently doing high school  at DPS.I need a funny loving person in my life.</summary> 
+ <movies>Hulk</movies>
+  <bestYou>Intellectual</bestYou> 
+  <color>Green</color> 
+ <language>Hindi </language>
+  <idol>Sachin Tendulkar</idol> 
+ <novel>Sons and lovers </novel>
+  <path>rana.jpg</path> 
+  <current>High school</current> 
+  </profile>

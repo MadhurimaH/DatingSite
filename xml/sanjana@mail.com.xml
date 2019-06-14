@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding = 'UTF-8'?>
+<profile>
+	<firstname> Sanjana </firstname>
+	<lastname> Shimroi </lastname>
+	<email> sanjana@mail.com </email>
+	<password> loveworld </password>
+	<confirm> loveworld </confirm>
+	<sex> Female </sex>
+	<dd> 12 </dd>
+	<mm>September </mm>
+	<yy>1992 </yy>
+	<country> India </country>
+	<summary> I am Sanjana Shimroi, 19 years old. Currently doing BCA from Vips. Looking for a friend to whom I can share anything. </summary>
+	<movies> Lolita </movies>
+	<bestYou> Lovely </bestYou>
+	<color> Dark Pink </color>
+	<language> German </language>
+	<idol> Sanaya Irani </idol>
+	<novel> David Copperfield </novel>
+	<path>sanjana.jpg</path>
+	<current> Job </current>
+</profile>

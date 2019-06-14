@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<profile>
+  <firstname>Rishabh</firstname> 
+  <lastname>Kumar</lastname> 
+  <email>rishabh@mail.com</email> 
+  <password>superman
+</password> 
+  <confirm>superman</confirm> 
+  <sex>Male</sex> 
+  <dd>01</dd> 
+  <mm>march</mm> 
+  <yy>1998</yy> 
+  <country>India</country> 
+  <summary>I am Rishabh Kumar ,18  years old. Currently Studying  at sachdeva school in 12th class.I just need a friend.</summary> 
+ <movies>
+  <movie1>The shawshank redemption</movie1> 
+  <movie2>Spiderman</movie2> 
+  <movie3>Batman</movie3> 
+  </movies>
+  <bestYou>Streetsamrt</bestYou> 
+  <color>Blue</color> 
+ <language>
+  <lang1>English</lang1> 
+  <lang2>Hindi</lang2> 
+  <lang3>Spansish</lang3> 
+  </language>
+  <idol>Bruce wayne</idol> 
+ <novel>
+  <n1>Wise blood</n1> 
+  <n2>The secret agent</n2> 
+  <n3>The rainbow</n3> 
+  <n4>The woman in love </n4> 
+  </novel>
+  <path>rishabh.jpg</path> 
+  <current>High school</current> 
+  </profile>

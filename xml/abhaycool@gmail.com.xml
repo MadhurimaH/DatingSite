@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <profile>
+  <firstname>Abhay</firstname> 
+  <lastname>rajput</lastname> 
+  <email>abhaycool@gmail.com</email> 
+  <password>12345</password> 
+  <confirm>12345</confirm> 
+  <sex>Male</sex> 
+  <dd>13</dd> 
+  <mm>November</mm> 
+  <yy>1995</yy> 
+  <country>India</country> 
+  <summary>I am Abhay Rajput, 20 years old. Currently doing Btech from MAIT. Looking for a friend to whom I can share anything and can be best friends.</summary> 
+ <movies>Veer Zara </movies>
+  <bestYou>Friendly</bestYou> 
+  <color>Blue</color> 
+ <language> Hindi </language>
+  <idol>Bill gates</idol> 
+ <novel> 2 states </novel>
+  <path>abhay.jpg</path> 
+  <current>College</current> 
+  </profile>
